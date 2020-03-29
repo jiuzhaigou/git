@@ -25,6 +25,6 @@ public class HelloServlet extends HttpServlet {
 		out.println("</body></html>");
 		out.close();
 
-		//add 70 branch
+		//add 70A branch
 	}
 }
