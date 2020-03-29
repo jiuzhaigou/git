@@ -31,5 +31,8 @@ public class HelloServlet extends HttpServlet {
 		//70B commit 1;
 
         //70B merge to 70A
+
+
+        //70A commit 2;
 	}
 }
