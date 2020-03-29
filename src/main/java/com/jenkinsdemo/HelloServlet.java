@@ -26,5 +26,6 @@ public class HelloServlet extends HttpServlet {
 		out.close();
 
 		//add 70B branch
+		//70B commit 1;
 	}
 }
