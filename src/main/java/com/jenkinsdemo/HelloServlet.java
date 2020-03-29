@@ -27,5 +27,9 @@ public class HelloServlet extends HttpServlet {
 
 		//add 70A branch
 		//70A commit 1;
+		//add 70B branch
+		//70B commit 1;
+
+        //70B merge to 70A
 	}
 }
